@@ -1,5 +1,108 @@
+# Hi 👋, I'm Dheeraj Kotla
 
-# Hi 👋, I'm Dheeraj Kotla<br><br>🎓 B.Tech Student passionate about **Artificial Intelligence, Data Engineering, and Full Stack Development**<br><br>## 🚀 About Me<br><br>* 💻 Currently learning **MERN Stack and Python for AI**<br>* 🤖 Interested in **AI/ML, Data Engineering, and Backend Development**<br>* 🧠 Building projects that combine **AI with real-world applications**<br>* 📚 Strong foundation in **Java and Data Structures**<br>* 🌱 Currently improving my **Python and AI skills**<br><br>## 🛠️ Skills<br><br>* **Languages:** Java, Python, JavaScript<br>* **Web Development:** HTML, CSS, React, Node.js, Express<br>* **Database:** MongoDB, SQL<br>* **Tools:** Git, GitHub, VS Code<br><br>## 📂 Projects<br><br>* ♻️ **CleanMitra** – Smart Waste Management System using IoT and Web Dashboard<br>* 🍽️ **MealMitra** – Platform to help users discover affordable meals and reduce food waste<br>*<br>## 📫 Connect With Me<br>connext me gmail:dheerajkotla7@gmail.com<br>⭐ Always curious to learn new technologies and build impactful AI solutions.<br>
+🎓 B.Tech Computer Science Student passionate about **Artificial Intelligence, Data Engineering, and Full Stack Development**
+
+---
+
+# 🚀 About Me
+
+* 💻 Currently learning **MERN Stack and Python for AI**
+* 🤖 Interested in **AI/ML, Data Engineering, and Backend Development**
+* 🧠 Building projects that combine **AI with real-world applications**
+* 📚 Strong foundation in **Java, Data Structures, and Backend Systems**
+* 🌱 Improving skills in **Python, AI, and scalable backend architecture**
+
+---
+
+# 🛠️ Skills
+
+### Languages
+
+* Java
+* Python
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+* React
+* Node.js
+* Express
+
+### Database
+
+* MongoDB
+* SQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* REST APIs
+* Socket.io
+
+---
+
+# 📂 Featured Projects
+
+### 🚖 ChaloRide – Real-Time Ride Booking Platform
+
+A full-stack ride booking platform similar to Uber/Ola with **real-time ride tracking and driver management**.
+
+**Tech Stack:**
+React • Node.js • Express • MongoDB • Socket.io • JWT • Tailwind CSS
+
+**Features**
+
+* Real-time ride booking & driver matching
+* Live driver location tracking
+* JWT authentication with refresh tokens
+* Ride history & driver earnings dashboard
+* Surge pricing & fare estimation
+
+🔗 Repository:
+https://github.com/dheeraj11011/chaloride
+
+---
+
+### ♻️ CleanMitra – Smart Waste Management System
+
+A smart waste management platform designed to improve waste collection efficiency using **IoT integration and monitoring dashboards**.
+
+**Features**
+
+* Smart bin monitoring
+* Waste collection tracking
+* Data visualization dashboard
+
+---
+
+### 🍽️ MealMitra – Food Discovery Platform
+
+A platform that helps users discover **affordable meals while reducing food waste**.
+
+**Features**
+
+* Restaurant listings
+* Affordable meal discovery
+* Food waste reduction initiative
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email:
+[dheerajkotla7@gmail.com](mailto:dheerajkotla7@gmail.com)
+
+💻 GitHub:
+https://github.com/dheeraj11011
+
+---
+
+⭐ *Always curious to learn new technologies and build impactful AI-driven solutions.*
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2310030444klhcse@gmail.com) 
 
