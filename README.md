@@ -76,7 +76,7 @@ A smart waste management platform designed to improve waste collection efficienc
 * Smart bin monitoring
 * Waste collection tracking
 * Data visualization dashboard
-
+https://github.com/dheeraj11011/CleanMitra-SmartWasteManagementSystem
 ---
 
 ### 🍽️ MealMitra – Food Discovery Platform
@@ -88,13 +88,14 @@ A platform that helps users discover **affordable meals while reducing food wast
 * Restaurant listings
 * Affordable meal discovery
 * Food waste reduction initiative
-
+🔗 Repository:https://github.com/dheeraj11011/Mealmitra
 ---
 
 # 🌐 Connect With Me
 
 📧 Email:
 [dheerajkotla7@gmail.com](mailto:dheerajkotla7@gmail.com)
+[2310030444klhcse@gmail.com](2310030444klh.cse@gmail.com)
 
 💻 GitHub:
 https://github.com/dheeraj11011
